@@ -57,8 +57,8 @@ I love solving real-world problems using AI. I'm actively looking for opportunit
 
 ## 📬 Let's Connect
 
-- 🔗 [LinkedIn](www.linkedin.com/in/nazmaheptulla-t-689a5622b)
-- 💌 Email: nazmaheptulla24@gmail.com
+- 🔗 LinkedIn: (www.linkedin.com/in/nazmaheptulla-t-689a5622b)
+- 💌 Email: (nazmaheptulla24@gmail.com)
 - 💻 GitHub: (https://github.com/Nazmaheptulla/Nazmaheptulla)
 
 ---
